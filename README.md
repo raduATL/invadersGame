@@ -1,4 +1,9 @@
-# invadersGame
+# invaders Game
+-----------------------------------------------------------------------------------------------------------------
+IMPORTANT: THE SOUND FILES HAVE NOT BEEN INPORTED ( ACCEPTED ) BY GITHUB. YOU CAN DOWNLOAD ALL THE SOUND FILES FROM 
+https://www.freesoundeffects.com/free-sounds/bomb-10076/
+------------------------------------------------------------------------------------------------------------------
+
 Invaders Retro Game
 This is the Windows Presentation Foundation (WPF) version of the Invaders retro game project from the book "Head First C#" A Brain Friendly
 Guide by Andrew Stellman and Jennifer Greene. Parts of the coding go to the authors of the book. I've done some work adding extra functionality
