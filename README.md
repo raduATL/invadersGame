@@ -1,6 +1,6 @@
 # invaders Game
 -----------------------------------------------------------------------------------------------------------------
-IMPORTANT: THE SOUND FILES HAVE NOT BEEN INPORTED ( ACCEPTED ) BY GITHUB. YOU CAN DOWNLOAD ALL THE SOUND FILES FROM 
+IMPORTANT: YOU CAN DOWNLOAD ALL THE SOUND FILES FROM 
 https://www.freesoundeffects.com/free-sounds/bomb-10076/
 ------------------------------------------------------------------------------------------------------------------
 
